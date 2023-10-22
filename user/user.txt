@@ -1,3 +1,4 @@
 0001	jeremy
 0002	sindy
 0017	ismael
+0000	no_registrado
